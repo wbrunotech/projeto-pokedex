@@ -9,6 +9,6 @@ O usuário pode clicar no card do seu Pokémon preferido para ver algumas inform
 - JavaScript
 - Git
 
-<!-- #### Page 💻
-Projeto pode ser visualizado clicando aqui -->
+#### Page 💻
+O projeto pode ser visualizado clicando aqui --> https://weybruno.github.io/projeto-pokedex/
 
