@@ -7,7 +7,7 @@
     align-items: center;
     justify-content: space-between;
     margin-bottom: 10px;
-    background-color: #6B727A;
+    background-color: goldenrod;
     color: #FFFFFF;
     padding: 0 5px;
     cursor: pointer;
@@ -32,5 +32,5 @@
 }
 
 .listagem .pokemon.ativo {
-    background-color: #FA6668;
+    background-color: #F59D08;
 }
