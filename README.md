@@ -10,4 +10,3 @@ O projeto pode ser visualizado clicando aqui --> https://weybruno.github.io/proj
 - HTML Semântico
 - CSS Responsivo
 - JavaScript
-- Git
